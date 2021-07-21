@@ -1,0 +1,55 @@
+.navbar {
+    opacity: 0.8;
+    border-bottom: 1px solid #fff;
+}
+
+.jumbotron {
+    background-color: rgb(255, 255, 255);
+    padding-top: 5px;
+}
+
+.counter {
+    background-color: #f5f5f5;
+    padding: 20px 0;
+    border-radius: 5px;
+}
+
+.count-title {
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.count-text {
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: 20px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.fa-2x {
+    margin: 0 auto;
+    float: none;
+    display: table;
+    color: #4ad1e5;
+}
+
+.dropdown {
+    background-color: rgb(11, 192, 11);
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.yazi2 {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    margin-top: 50px;
+    text-align: center;
+}
